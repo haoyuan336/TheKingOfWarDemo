@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "goldNotEnoughTipsEnter",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.65,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "goldnotenough": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": [
+                0.99,
+                0.25,
+                0.61,
+                1.54
+              ]
+            },
+            {
+              "frame": 0.65,
+              "value": -140
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": -140,
+              "curve": [
+                0.52,
+                -0.39,
+                1.05,
+                0.4
+              ]
+            },
+            {
+              "frame": 2.65,
+              "value": -7
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "y": []
+    }
+  },
+  "events": []
+}

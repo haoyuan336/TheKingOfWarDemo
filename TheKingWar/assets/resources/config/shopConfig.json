@@ -1,0 +1,22 @@
+{
+  "goods_0":{
+    "count": 30,
+    "money": 0.9,
+    "icon": "diamond_icon_0.png"
+  },
+  "goods_1":{
+    "count": 210,
+    "money": 5.9,
+    "icon": "diamond_icon_1.png"
+  },
+  "goods_2":{
+    "count": 420,
+    "money": 11.9,
+    "icon": "diamond_icon_2.png"
+  },
+  "goods_3":{
+    "count": 840,
+    "money": 23.9,
+    "icon": "diamond_icon_3.png"
+  }
+}

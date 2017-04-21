@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.TheKingWar",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "3d18270e-6056-49bb-bdae-df8bd7dc98f1",
+  "title": "TheKingWar1",
+  "webOrientation": "auto"
+}

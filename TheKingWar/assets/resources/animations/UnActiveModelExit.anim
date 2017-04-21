@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "UnActiveModelExit",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": [
+            0.64,
+            -0.28,
+            0.43,
+            0.91
+          ]
+        },
+        {
+          "frame": 1,
+          "value": -621
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "exitAnimationOver",
+      "params": []
+    }
+  ]
+}
